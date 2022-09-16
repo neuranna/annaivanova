@@ -69,9 +69,9 @@ email: ''
 highlight_name: true
 ---
 
-Hi!
+<br/><br/> 
 
-I am a postdoctoral researcher at MIT, interested in studying the relationship between language and other aspects of human cognition. I tackle this question using tools from neuroscience (such as fMRI) and artificial intelligence (such as large language models).
+Hi! I am a postdoctoral researcher at MIT, interested in studying the relationship between language and other aspects of human cognition. I tackle this question using tools from neuroscience (such as fMRI) and artificial intelligence (such as large language models).
 
 {{< staticref "uploads/Anna_Ivanova_CV.pdf" "newtab" >}}This is my CV{{< /staticref >}}. You can contact me at annaiv (at) mit (dot) edu or [follow me on Twitter](https://twitter.com/neuranna).
 
