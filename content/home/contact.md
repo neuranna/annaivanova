@@ -5,6 +5,8 @@ widget: contact
 # This file represents a page section.
 headless: true
 
+active: false
+
 # Order that this section appears on the page.
 weight: 130
 
@@ -20,7 +22,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Twitter
+      name: @neuranna
       link: 'https://twitter.com/neuranna'
 
 design:
