@@ -24,6 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral Associate
     company: MIT Quest for Intelligence
+    company_logo: MIT_Seal
     company_url: 'https://quest.mit.edu/about/vision-statement'
     date_start: '2022-09-06'
     date_end: ''
