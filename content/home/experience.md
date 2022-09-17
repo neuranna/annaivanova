@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
@@ -17,30 +17,21 @@ subtitle:
 date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+item:
   - title: Postdoctoral Associate
-    company: MIT Quest for Intelligence
-    company_logo: MIT_logo_quest
-    company_url: 'https://quest.mit.edu/about/vision-statement'
+    organization: MIT Quest for Intelligence
+    organization_logo: MIT_logo_quest
+    organization_url: 'https://quest.mit.edu/about/vision-statement'
     date_start: '2022-09-06'
     date_end: ''
     description: |2-
         * Developing a large-scale benchmark to evaluate world knowledge in language models
         * Designing a platform to enable all researchers to study world knowledge in machines using custom tests / models
 
-  - title: Postdoctoral Associate
-    company: MIT Quest for Intelligence
-    company_logo: MIT_logo_quest
-    company_url: 'https://quest.mit.edu/about/vision-statement'
-    date_start: '2022-09-06'
-    date_end: ''
-    description: |2-
-        * Developing a large-scale benchmark to evaluate world knowledge in language models
-        * Designing a platform to enable all researchers to study world knowledge in machines using custom tests / models
 
 design:
   columns: '2'
