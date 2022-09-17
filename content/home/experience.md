@@ -29,7 +29,7 @@ experience:
     date_end: ''
     description: |2-
         * Developing a large-scale benchmark to evaluate world knowledge in language models
-        * Designing a platform to enable all researchers to study world knowledge in machines using their own tests / models
+        * Designing a platform to enable all researchers to study world knowledge in machines using custom tests / models
 
 design:
   columns: '2'
