@@ -24,7 +24,17 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral Associate
     company: MIT Quest for Intelligence
-    company_logo: MIT_logo
+    company_logo: MIT_logo_quest
+    company_url: 'https://quest.mit.edu/about/vision-statement'
+    date_start: '2022-09-06'
+    date_end: ''
+    description: |2-
+        * Developing a large-scale benchmark to evaluate world knowledge in language models
+        * Designing a platform to enable all researchers to study world knowledge in machines using custom tests / models
+
+  - title: Postdoctoral Associate
+    company: MIT Quest for Intelligence
+    company_logo: MIT_logo_quest
     company_url: 'https://quest.mit.edu/about/vision-statement'
     date_start: '2022-09-06'
     date_end: ''
