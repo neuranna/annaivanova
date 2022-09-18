@@ -17,5 +17,13 @@ tags:
 - neural nets
 - methods
 
+url_pdf: https://arxiv.org/pdf/2104.08197.pdf
 doi: https://doi.org/10.48550/arXiv.2104.08197
+url_video: https://www.youtube.com/watch?v=EdfbuDNwN-I&ab_channel=AnnaIvanova
+
+links:
+- name: Tweeprint
+  url: https://twitter.com/neuranna/status/1387119824027930629
+
+
 ---

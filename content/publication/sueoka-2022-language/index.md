@@ -24,4 +24,8 @@ tags:
 - events
 
 doi: https://doi.org/10.1101/2022.04.24.489316
+
+links:
+- name: Tweeprint
+  url: https://twitter.com/neuranna/status/1518696344726249474 
 ---

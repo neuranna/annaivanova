@@ -16,10 +16,14 @@ abstract: ''
 featured: true
 publication: '*Neurons, Behavior, Data analysis, and Theory*'
 
-url_pdf: https://arxiv.org/pdf/2208.10668.pdf
-doi: https://doi.org/10.51628/001c.37507
-
 tags:
 - position paper
 - methods
+
+url_pdf: https://arxiv.org/pdf/2208.10668.pdf
+doi: https://doi.org/10.51628/001c.37507
+
+links:
+- name: Tweeprint
+  url: https://twitter.com/neuranna/status/1562488729687977984 
 ---

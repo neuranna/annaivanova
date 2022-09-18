@@ -22,5 +22,5 @@ url_code: https://github.com/neuranna/labels-and-categories
 
 links:
 - name: Tweeprint
-  url: https://mobile.twitter.com/neuranna/status/1288171681861832704
+  url: https://twitter.com/neuranna/status/1288171681861832704
 ---

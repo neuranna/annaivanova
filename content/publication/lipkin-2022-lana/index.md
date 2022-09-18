@@ -35,4 +35,8 @@ tags:
 
 doi: https://doi.org/10.1038/s41597-022-01645-3
 url_pdf: https://www.nature.com/articles/s41597-022-01645-3.pdf
+
+links:
+- name: Tweeprint
+  url: https://twitter.com/ev_fedorenko/status/1500827949053976579
 ---

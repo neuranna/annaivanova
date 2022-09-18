@@ -24,4 +24,8 @@ tags:
 
 url_pdf: https://evlab.mit.edu/assets/papers/Ivanova_et_al_2020_eLife.pdf
 doi: https://doi.org/10.7554/eLife.58906
+
+links:
+- name: Tweeprint
+- url: https://twitter.com/neuranna/status/1251589731932135425
 ---

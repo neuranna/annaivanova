@@ -21,4 +21,8 @@ tags:
 
 url_pdf: https://evlab.mit.edu/assets/papers/Ivanova_et_al_2021_NOL.pdf
 doi: https://doi.org/10.1162/nol_a_00030
+
+links:
+- name: Tweeprint
+  url: https://twitter.com/neuranna/status/1375130552798478339
 ---
