@@ -4,7 +4,7 @@ date: '2019-01-01'
 publishDate: '2022-09-17T21:47:52.028383Z'
 authors:
 - Evelina Fedorenko
-- Anna A Ivanova
+- admin
 - Riva Dhamala
 - Marina Umaschi Bers
 publication_types:
@@ -12,4 +12,8 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Trends in Cognitive Sciences*'
+
+tags:
+- position paper
+- programming
 ---

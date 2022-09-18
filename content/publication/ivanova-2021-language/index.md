@@ -3,7 +3,7 @@ title: The language network is recruited but not required for nonverbal event se
 date: '2021-01-01'
 publishDate: '2022-09-17T21:47:51.996507Z'
 authors:
-- Anna A Ivanova
+- admin
 - Zachary Mineroff
 - Vitor Zimmerer
 - Nancy Kanwisher
@@ -14,4 +14,8 @@ publication_types:
 abstract: ''
 featured: true
 publication: '*Neurobiology of Language*'
+
+tags:
+- fMRI
+- events
 ---

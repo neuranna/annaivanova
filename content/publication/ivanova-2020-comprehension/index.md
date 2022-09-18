@@ -4,7 +4,7 @@ title: Comprehension of computer code relies primarily on domain-general executi
 date: '2020-01-01'
 publishDate: '2022-09-17T21:47:52.008783Z'
 authors:
-- Anna A Ivanova
+- admin
 - Shashank Srikant
 - Yotaro Sueoka
 - Hope H Kean
@@ -17,4 +17,8 @@ publication_types:
 abstract: ''
 featured: true
 publication: '*eLife*'
+
+tags:
+- fMRI
+- programming
 ---

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Current position
+title: Position
 subtitle:
 
 # Date format for experience
@@ -24,7 +24,6 @@ date_format: Jan 2006
 item:
   - title: Postdoctoral Associate
     organization: MIT Quest for Intelligence
-    organization_logo: MIT_logo_quest
     organization_url: 'https://quest.mit.edu/about/vision-statement'
     date_start: '2022-09-06'
     date_end: ''

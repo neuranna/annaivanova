@@ -18,11 +18,14 @@ author_notes:
   - 'Equal contribution'
 
 publication_types:
-- '2'
+- '3'
 abstract: ''
 featured: false
 publication: '*bioRxiv*'
 tags:
-- preprint
+- fMRI
+- categorization
 doi: https://doi.org/10.1101/2021.03.18.436075
+
+
 ---

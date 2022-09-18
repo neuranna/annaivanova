@@ -4,7 +4,7 @@ title: Intrinsic functional organization of putative language networks in the br
 date: '2017-01-01'
 publishDate: '2022-09-17T21:47:52.058671Z'
 authors:
-- Anna A Ivanova
+- admin
 - Eran Zaidel
 - Noriko Salamon
 - Susan Bookheimer
@@ -15,4 +15,7 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Brain Structure and Function*'
+
+tags:
+- fMRI
 ---

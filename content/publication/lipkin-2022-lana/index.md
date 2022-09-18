@@ -18,7 +18,7 @@ authors:
 - Alvincé Pongos
 - Idan A. Blank
 - Melissa Kline Struhl
-- Anna A Ivanova
+- admin
 - Steven Shannon
 - Aalok Sathe
 - Malte Hoffmann
@@ -29,4 +29,8 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Scientific Data*'
+
+tags:
+- fMRI
+- methods
 ---
