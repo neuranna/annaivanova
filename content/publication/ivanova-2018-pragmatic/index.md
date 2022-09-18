@@ -16,4 +16,5 @@ tags:
 - Bayesian modeling
 
 url_pdf: https://cogsci.mindmodeling.org/2018/papers/0358/0358.pdf
+url_code: https://github.com/neuranna/binomial-referents 
 ---
