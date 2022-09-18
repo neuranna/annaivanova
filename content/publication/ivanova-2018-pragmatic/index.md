@@ -1,6 +1,6 @@
 ---
 title: Pragmatic inference of intended referents from binomial word order
-date: '2018-01-01'
+date: '2018-07-01'
 publishDate: '2022-09-17T21:47:52.049483Z'
 authors:
 - admin
@@ -14,4 +14,6 @@ publication: '*Proceedings of the 40th Annual Conference of the Cognitive Scienc
 
 tags:
 - Bayesian modeling
+
+url_pdf: https://cogsci.mindmodeling.org/2018/papers/0358/0358.pdf
 ---

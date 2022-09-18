@@ -1,7 +1,7 @@
 ---
 title: Comprehension of computer code relies primarily on domain-general executive
   brain regions
-date: '2020-01-01'
+date: '2020-12-01'
 publishDate: '2022-09-17T21:47:52.008783Z'
 authors:
 - admin
@@ -21,4 +21,6 @@ publication: '*eLife*'
 tags:
 - fMRI
 - programming
+
+doi: https://doi.org/10.7554/eLife.58906
 ---

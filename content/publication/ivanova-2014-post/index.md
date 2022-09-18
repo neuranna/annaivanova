@@ -12,4 +12,6 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Wulfenia*'
+
+url: https://www.researchgate.net/publication/291485967_Post-fire_succession_in_the_northern_pine_forest_in_Russia_a_case_study
 ---
