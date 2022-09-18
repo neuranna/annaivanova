@@ -1,7 +1,6 @@
 ---
-title: 'LanA (Language Atlas): A probabilistic atlas for the language network based
-  on fMRI data from >800 individuals'
-date: '2022-01-01'
+title: 'Probabilistic atlas for the language network based on precision fMRI data from >800 individuals'
+date: '2022-08-01'
 publishDate: '2022-09-17T21:47:51.953705Z'
 authors:
 - Benjamin Lipkin
@@ -33,4 +32,6 @@ publication: '*Scientific Data*'
 tags:
 - fMRI
 - methods
+
+doi: https://doi.org/10.1038/s41597-022-01645-3
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Probing artificial neural networks: Insights from neuroscience'
-date: '2021-01-01'
+date: '2021-05-01'
 publishDate: '2022-09-17T21:47:51.974410Z'
 authors:
 - admin
@@ -13,6 +13,9 @@ featured: false
 publication: "*ICLR 2021 Workshop ``How Can Findings About The Brain Improve AI Systems?''*"
 
 tags:
+- position paper
 - neural nets
 - methods
+
+doi: https://doi.org/10.48550/arXiv.2104.08197
 ---

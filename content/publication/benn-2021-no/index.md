@@ -1,6 +1,6 @@
 ---
 title: No evidence for a special role of language in feature-based categorization
-date: '2021-01-01'
+date: '2021-03-01'
 publishDate: '2022-09-17T21:47:51.983853Z'
 authors:
 - Yael Benn

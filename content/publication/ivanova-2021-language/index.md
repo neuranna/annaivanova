@@ -1,6 +1,6 @@
 ---
 title: The language network is recruited but not required for nonverbal event semantics
-date: '2021-01-01'
+date: '2021-03-01'
 publishDate: '2022-09-17T21:47:51.996507Z'
 authors:
 - admin
@@ -18,4 +18,6 @@ publication: '*Neurobiology of Language*'
 tags:
 - fMRI
 - events
+
+doi: https://doi.org/10.1162/nol_a_00030 
 ---

@@ -1,6 +1,6 @@
 ---
 title: The language network reliably 'tracks' naturalistic meaningful non-verbal stimuli
-date: '2022-01-01'
+date: '2022-04-01'
 publishDate: '2022-09-17T21:47:51.944591Z'
 authors:
 - Yotaro Sueoka
@@ -22,4 +22,6 @@ publication: '*bioRxiv*'
 tags:
 - fMRI
 - events
+
+doi: https://doi.org/10.1101/2022.04.24.489316
 ---
