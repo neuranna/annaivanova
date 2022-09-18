@@ -22,5 +22,7 @@ tags:
 - neural nets
 - methods
 
+url_pdf: https://arxiv.org/pdf/1806.00591.pdf
 doi: https://doi.org/10.48550/arXiv.1806.00591
+url_code: https://github.com/hans/nn-decoding/tree/faa0b8992507b3bf63155ac9f47701badb75997a
 ---

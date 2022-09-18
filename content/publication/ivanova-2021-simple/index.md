@@ -15,6 +15,8 @@ publication_types:
 abstract: ''
 featured: true
 publication: '*Neurons, Behavior, Data analysis, and Theory*'
+
+url_pdf: https://arxiv.org/pdf/2208.10668.pdf
 doi: https://doi.org/10.51628/001c.37507
 
 tags:

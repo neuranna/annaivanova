@@ -34,4 +34,5 @@ tags:
 - methods
 
 doi: https://doi.org/10.1038/s41597-022-01645-3
+url_pdf: https://www.nature.com/articles/s41597-022-01645-3.pdf
 ---

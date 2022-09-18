@@ -19,5 +19,6 @@ publication: '*Brain Structure and Function*'
 tags:
 - fMRI
 
-doi: https://doi.org/10.1007/s00429-017-1434-y 
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6032986/pdf/nihms873407.pdf
+doi: https://doi.org/10.1007/s00429-017-1434-y
 ---

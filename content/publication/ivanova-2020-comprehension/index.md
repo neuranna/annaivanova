@@ -22,5 +22,6 @@ tags:
 - fMRI
 - programming
 
+url_pdf: https://evlab.mit.edu/assets/papers/Ivanova_et_al_2020_eLife.pdf
 doi: https://doi.org/10.7554/eLife.58906
 ---
