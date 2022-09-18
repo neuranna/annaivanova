@@ -9,8 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: All Publications
 subtitle: ''
+
+date_format: 2006
 
 content:
   # Filter on criteria
