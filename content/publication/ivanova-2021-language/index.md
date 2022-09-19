@@ -23,8 +23,8 @@ featured: true
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: 'Experimental design'
-  focal_point: 'Center'
+  caption: 'Experimental stimuli'
+  focal_point: 'Bottom'
   preview_only: false
 
 tags:
