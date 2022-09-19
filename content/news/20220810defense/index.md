@@ -1,6 +1,6 @@
 ---
-title: My thesis defense
-summary: The recording of my defense is now on Youtube.
+title: My thesis defense recording is online
+summary: Check it out!
 tags:
   - talks
   - fMRI
