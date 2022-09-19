@@ -12,3 +12,6 @@ external_link: 'https://youtu.be/zidTrmlNoXA'
 image:
   focal_point: Smart
   preview_only: true
+
+
+---
