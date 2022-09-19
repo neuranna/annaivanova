@@ -23,7 +23,8 @@ summary: Many cognitive neuroscience studies use large feature sets to predict a
 
 featured: true
 image:
-  focal_point: ''
+  caption: 'The encoding/decoding modeling framework in cognitive neuroscience.'
+  focal_point: 'Bottom'
   preview_only: false
 
 tags:

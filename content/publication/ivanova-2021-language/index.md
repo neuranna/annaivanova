@@ -19,9 +19,12 @@ summary: 'The ability to combine individual concepts of objects, properties, and
 
 
 featured: true
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   caption: 'Experimental design'
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: false
 
 tags:
