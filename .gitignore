@@ -1,6 +1,12 @@
 # IDEs
 .idea/
 
+# Mac
+.DS_Store
+
+# Publication list
+data/publications.bib
+
 # Hugo
 resources/
 public/
