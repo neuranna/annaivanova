@@ -68,13 +68,13 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# {{< staticref "uploads/Anna_Ivanova_CV.pdf" "newtab" >}}This is my CV{{< /staticref >}}. 
+# {{< staticref "uploads/Anna_Ivanova_CV.pdf" "newtab" >}}This is my CV{{< /staticref >}}.
 ---
 
 Hi!
 
 I am a postdoctoral researcher at MIT, interested in studying the relationship between language and other aspects of human cognition. In my work, I use tools from cognitive neuroscience (such as fMRI) and artificial intelligence (such as large language models).
 
-You can contact me at annaiv (at) mit (dot) edu or [follow me on Twitter](https://twitter.com/neuranna).
+You can contact me at annaiv [at] mit [dot] edu or [follow me on Twitter](https://twitter.com/neuranna).
 
 Thanks for stopping by!

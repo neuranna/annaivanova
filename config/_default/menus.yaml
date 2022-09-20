@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Position
-    url: '#experience'
+    url: '#position'
     weight: 20
   - name: Publications
     url: '#featured'
@@ -16,12 +16,16 @@ main:
   - name: News
     url: '#news'
     weight: 40
-  - name: CV
-    url: uploads/Anna_Ivanova_CV.pdf
+  - name: Resources
+    url: 'resource'
     weight: 50
   - name: Thesis
     url: uploads/Anna_Ivanova_thesis.pdf
     weight: 60
+  - name: CV
+    url: uploads/Anna_Ivanova_CV.pdf
+    weight: 70
+
 
 
 # Link to a PDF of your resume/CV from the menu.
