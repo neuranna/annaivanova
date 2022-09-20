@@ -1,6 +1,6 @@
 ---
-title: My thesis defense recording is online
-summary: Check it out!
+title: My thesis defense
+summary: The recording is now online. Check it out!
 tags:
   - talks
   - fMRI
