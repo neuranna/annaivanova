@@ -1,6 +1,7 @@
 ---
 title: My thesis defense
-summary: The [recording](https://youtu.be/zidTrmlNoXA) is now online. Check it out! My written thesis can be found {{< staticref "uploads/Anna_Ivanova_thesis.pdf" "newtab" >}}here{{< /staticref >}}.
+summary: The recording is now online. Check it out!
+#My written thesis can be found {{< staticref "uploads/Anna_Ivanova_thesis.pdf" "newtab" >}}here{{< /staticref >}}.
 tags:
   - talks
   - fMRI
