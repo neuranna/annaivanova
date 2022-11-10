@@ -75,6 +75,6 @@ Hi!
 
 I am a postdoctoral researcher at MIT, interested in studying the relationship between language and other aspects of human cognition. In my work, I use tools from cognitive neuroscience (such as fMRI) and artificial intelligence (such as large language models).
 
-You can contact me at annaiv [at] mit [dot] edu or [follow me on Twitter](https://twitter.com/neuranna).
+You can contact me at annaiv [at] mit [dot] edu or follow me on [Twitter](https://twitter.com/neuranna) / [Mastodon](https://mstdn.science/@neuranna)
 
 Thanks for stopping by!
