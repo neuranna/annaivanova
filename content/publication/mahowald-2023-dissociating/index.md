@@ -26,7 +26,7 @@ publication: '*arXiv*'
 
 image:
   caption: 'Language understanding requires not only language-specific, but also general cognitive abilities.'
-  focal_point: 'auto'
+  focal_point: 'Smart'
   preview_only: false
 
 tags:
