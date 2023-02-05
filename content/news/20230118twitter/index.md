@@ -10,7 +10,7 @@ date: '2023-01-18T00:00:00Z'
 external_link: 'https://twitter.com/neuranna/status/1615737072207400962'
 
 image:
-  focal_point: Right
+  focal_point: Smart
   preview_only: true
 
 
