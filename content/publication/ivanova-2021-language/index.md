@@ -24,7 +24,7 @@ featured: true
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   caption: 'Experimental stimuli'
-  focal_point: ''
+  focal_point: 'Left'
   preview_only: false
 
 tags:
