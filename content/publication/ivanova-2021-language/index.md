@@ -23,8 +23,8 @@ featured: true
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: 'Experimental stimuli'
-  focal_point: 'Left'
+  caption: 'Individuals with lesioned language regions can retain event understanding'
+  focal_point: 'Right'
   preview_only: false
 
 tags:

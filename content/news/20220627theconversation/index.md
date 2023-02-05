@@ -3,7 +3,7 @@ title: Cognitive bias & AI
 summary: We wrote a popular science piece for *The Conversation* on why humans are so tempted to mistake fluent language for fluent thought.
 tags:
   - pop sci
-  - deep learning
+  - AI
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
