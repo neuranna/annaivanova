@@ -1,6 +1,6 @@
 ---
 title: Twitter famous
-summary: My thread about our new preprint (language & thought in large language models) got >1,000 likes in the first day!
+summary: My thread about our new preprint (language and thought in large language models) got >1,000 likes in the first day!
 tags:
   - media
   - AI
