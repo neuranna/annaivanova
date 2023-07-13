@@ -1,6 +1,6 @@
 ---
 title: TWIML podcast
-summary: This Week in Machine Learning interviewed me about ChatGPT
+summary: This Week in Machine Learning interviewed me about ChatGPT.
 tags:
   - media
   - AI
