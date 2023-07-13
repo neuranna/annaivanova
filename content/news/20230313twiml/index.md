@@ -10,7 +10,7 @@ date: '2023-03-13T00:00:00Z'
 external_link: 'https://www.youtube.com/watch?v=UHjNpw76UVk&t=199s&ab_channel=TheTWIMLAIPodcastwithSamCharrington'
 
 image:
-  focal_point: Left
+  focal_point: Smart
   preview_only: true
 
 ---
