@@ -1,6 +1,6 @@
 ---
 title: TEDx talk: Chatbots and AI
-summary: I gave a 5-min TEDx talk titled "To build smarter chatbots, look to the brain"
+summary: I gave a 5-min TEDx talk titled ``To build smarter chatbots, look to the brain''
 tags:
   - media
   - AI
