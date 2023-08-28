@@ -1,5 +1,5 @@
 ---
-title: No evidence for a special role of language in feature-based categorization
+title: The language network is not engaged in object categorization
 date: '2021-03-01'
 publishDate: '2022-09-17T21:47:51.983853Z'
 authors:
@@ -23,7 +23,7 @@ author_notes:
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-- '3'
+- '2'
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -35,15 +35,15 @@ publication_types:
 
 abstract: ''
 featured: false
-publication: '*bioRxiv*'
+publication: 'Cerebral Cortex'
 tags:
 - fMRI
 - categorization
 
 
-doi: https://doi.org/10.1101/2021.03.18.436075
+doi: https://doi.org/10.1093/cercor/bhad289
 
 links:
 - name: Tweeprint
-  url: https://twitter.com/neuranna/status/1373017073513857028
+  url: https://twitter.com/neuranna/status/1694374914000666716
 ---
