@@ -1,7 +1,7 @@
 ---
 title: The language network is not engaged in object categorization
-date: '2021-03-01'
-publishDate: '2022-09-17T21:47:51.983853Z'
+date: '2023-08-15'
+publishDate: '2023-08-15T21:47:51.983853Z'
 authors:
 - Yael Benn
 - admin
