@@ -79,4 +79,4 @@ To learn more, browse this website or check out this 5-min [TEDx talk](https://w
 
 You can contact me at annaiv [at] mit [dot] edu or follow me on [Twitter](https://twitter.com/neuranna).
 
-Thanks for stopping by!
+***UPDATE***: In January 2024, I will be starting as an Assistant Professor at Georgia Tech Psychology! You can find more information at my lab website, [Language, Intelligence, and Thought](https://www.language-intelligence-thought.net/). I am hiring at all levels, don't be shy to reach out! 
