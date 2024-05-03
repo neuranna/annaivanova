@@ -27,10 +27,11 @@ item:
   organization_url: 'https://psychology.gatech.edu/people/anna-ivanova'
   date_start: '2024-01-06'
   date_end: ''
-  description: |2-
+  description: |3-
       * Head of the Language, Intelligence, and Thought (LIT) lab
       * Semantic knowledge and reasoning in humans and in large language models
       * Leveraging experimental tools to jointly analyze biological and artificial intelligence
+
   - title: Postdoctoral Associate
     organization: MIT Quest for Intelligence
     organization_url: 'https://quest.mit.edu/about/vision-statement'
