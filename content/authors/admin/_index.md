@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Anna Ivanova
+title: Anna (Anya) Ivanova
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Associate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Massachusetts Institute of Technology
+  - name: Georgia Institute of Technology
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -18,7 +18,8 @@ organizations:
 # Interests to show in About widget
 interests:
   - Neuroscience of language and cognition
-  - World knowledge in large language models
+  - The link between language and world knowledge in humans and in AI models
+  - Inner speech
 
 # Education to show in About widget
 education:
@@ -73,10 +74,8 @@ highlight_name: true
 
 Hi!
 
-I am a postdoctoral researcher at MIT, interested in studying the relationship between language and other aspects of human cognition. In my work, I use tools from cognitive neuroscience (such as fMRI) and artificial intelligence (such as large language models).
+I am an Assistant Professor of Psychology at Georgia Institute of Technology, interested in studying the relationship between language and other aspects of human cognition. In my work, I use tools from cognitive neuroscience (such as fMRI) and artificial intelligence (such as large language models).
 
-To learn more, browse this website or check out this 5-min [TEDx talk](https://www.youtube.com/watch?v=pDVBjzkcLQg&ab_channel=TEDxTalks) about applying insights from neuroscience to better understand the capabilities of large language models.
+To learn more, browse my lab's website ([Language, Intelligence, and Thought](https://www.language-intelligence-thought.net/)) or check out this 5-min [TEDx talk](https://www.youtube.com/watch?v=pDVBjzkcLQg&ab_channel=TEDxTalks) about applying insights from neuroscience to better understand the capabilities of large language models.
 
-You can contact me at annaiv [at] mit [dot] edu or follow me on [Twitter](https://twitter.com/neuranna).
-
-**UPDATE**: In January 2024, I will be starting as an Assistant Professor at Georgia Tech Psychology! You can find more information at my lab website, [Language, Intelligence, and Thought](https://www.language-intelligence-thought.net/). I am hiring at all levels, don't be shy to reach out!
+You can contact me at a.ivanova [at] gatech [dot] edu or follow me on [Twitter](https://twitter.com/neuranna).
