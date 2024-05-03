@@ -27,17 +27,18 @@ item:
   organization_url: 'https://psychology.gatech.edu/people/anna-ivanova'
   date_start: '2024-01-06'
   date_end: ''
-#  description: |2-
-#      * Developing a large-scale benchmark to evaluate world knowledge in language models
-#      * Designing a platform to enable all researchers to study world knowledge in machines using custom tests / models
+  description: |2-
+      * Head of the Language, Intelligence, and Thought (LIT) lab
+      * Semantic knowledge and reasoning in humans and in large language models
+      * Leveraging experimental tools to jointly analyze biological and artificial intelligence
   - title: Postdoctoral Associate
     organization: MIT Quest for Intelligence
     organization_url: 'https://quest.mit.edu/about/vision-statement'
     date_start: '2022-09-06'
     date_end: '2023-12-31'
-#    description: |2-
-#        * Developing a large-scale benchmark to evaluate world knowledge in language models
-#        * Designing a platform to enable all researchers to study world knowledge in machines using custom tests / models
+    description: |2-
+        * Developing a large-scale benchmark to evaluate world knowledge in language models
+        * Designing a platform to enable all researchers to study world knowledge in machines using custom tests / models
 
 
 design:
