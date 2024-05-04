@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- title: Assistant Professor of Psychology
-  organization: Georgia Institute of Technology
-  organization_url: 'https://psychology.gatech.edu/people/anna-ivanova'
-  date_start: '2024-01-06'
-  date_end: ''
-  description: |2-
-      * Head of the Language, Intelligence, and Thought (LIT) lab
-      * Leveraging experimental tools to jointly analyze biological and artificial intelligence
-#      * Semantic knowledge and reasoning in humans and in large language models
+  - title: Assistant Professor of Psychology
+    organization: Georgia Institute of Technology
+    organization_url: 'https://psychology.gatech.edu/people/anna-ivanova'
+    date_start: '2024-01-06'
+    date_end: ''
+    description: |2-
+        * Head of the Language, Intelligence, and Thought (LIT) lab
+        * Leveraging experimental tools to jointly analyze biological and artificial intelligence
+  #      * Semantic knowledge and reasoning in humans and in large language models
   - title: Postdoctoral Associate
     organization: MIT Quest for Intelligence
     organization_url: 'https://quest.mit.edu/about/vision-statement'
